@@ -1,5 +1,2 @@
 # Ignore .DS_Store file
 .DS_Store
-
-# Allow .c files
-*.c
