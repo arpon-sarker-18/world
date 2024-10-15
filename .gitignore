@@ -1,12 +1,5 @@
+# Ignore .DS_Store file
+.DS_Store
 
-
-ls *.c
-
-# Optionally, add common executable extensions for different systems
-*.exe     # Windows executables
-*.out     # Common for Linux
-*.bin     # Binary files
-*.dll     # Dynamic-link library (Windows)
-*.a       # Static library (Linux)
-*.so      # Shared object (Linux)
-*.dylib   # Dynamic library (macOS)
+# Allow .c files
+*.c
